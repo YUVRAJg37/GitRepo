@@ -1,2 +1,2 @@
 Yuvi is a awsome person.
-He knows a lot about web dev.
+He knows a lot about Game Dev.
